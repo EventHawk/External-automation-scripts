@@ -1,4 +1,3 @@
-<script>
     function addQueryParameters() {
   // Get the current URL
   var currentUrl = window.location.href;
