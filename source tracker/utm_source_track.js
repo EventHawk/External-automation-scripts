@@ -1,5 +1,4 @@
     function addQueryParameters() {
-      console.log("added successfully");
   // Get the current URL
   var currentUrl = window.location.href;
   
@@ -23,4 +22,5 @@
   }
 }
 // calling function
+console.log("calling addQueryParameters function");
 addQueryParameters();
