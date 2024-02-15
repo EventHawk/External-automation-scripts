@@ -24,9 +24,6 @@
     }
   }
 
-  // Call the addQueryParameters function when the DOM is ready
-  document.addEventListener('DOMContentLoaded', function() {
     console.log("calling addQueryParameters function");
     addQueryParameters();
-  });
 })();
